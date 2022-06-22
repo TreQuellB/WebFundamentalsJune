@@ -1,0 +1,21 @@
+*/{
+    background-color: white;
+}
+h1{
+    background-color: black;
+    text-align: left;
+    color: white;
+    
+    
+}
+h2{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+h3{
+    background-color: aquamarine;
+    text-align: right;
+    color: rgb(130, 0, 252);
+}
