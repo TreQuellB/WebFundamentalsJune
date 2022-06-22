@@ -1,21 +1,30 @@
-*/{
+body{
     background-color: white;
 }
 h1{
     background-color: black;
     text-align: left;
     color: white;
-    
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 100;
+    font-style: italic;
     
 }
 h2{
     text-align: center;
-    background-color: blueviolet;
+    background-color:#663399;
     color: white;
+    font-style: italic;
+    font-size: 25px;
 }
 
 h3{
-    background-color: aquamarine;
+    background-color:#9fc5f8 ;
     text-align: right;
-    color: rgb(130, 0, 252);
+    color:#20124d ;
+    font-size: 23px;
+}
+span{
+    color:#00ffff ;
 }
