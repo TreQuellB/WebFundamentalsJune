@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+body {
+    background-color: #f3f3f3;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+.card_header {
+    background-color: #17a2b8;
+    height: 128px;
+    margin-bottom: 60px;
+}
+
+.user_card {
+    width: 600px;
+    background-color: #fff;
+    border: 2px solid #999;
+    font-size: 20px;
+
+}
+
+.avatar {
+    background-color: #fff;
+    height: 190px;
+    border-radius: 50%;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.card_body {
+    padding: 20px;
+}
+
+.card_body h1,h3,p,a {
+    margin: 20px;
+}
+
+
+.map_logo {
+    height: 15px;
+}
+
+a {
+    color: #3a81e6;
+}
