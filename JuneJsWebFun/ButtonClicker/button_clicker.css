@@ -54,6 +54,7 @@ height: 588px;
     display: flex;
     align-items: center;
     margin-bottom: 24px;
+    margin-top: 20px;
 }
 #insideleftbox{
 
@@ -135,7 +136,7 @@ background-color: #ffffff;
     width: 500px;
 }
 #right-col{
-    border:2px solid black ;
+
     height: 568px;
     flex: 1;
 padding:20px 0px 0px 260px;
