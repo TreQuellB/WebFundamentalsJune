@@ -43,7 +43,7 @@ padding: 0px 120px;
     display: flex;
 }
 #left-col{
-margin-top: 20px;
+
 flex: 2;
 height: 588px;
 }
@@ -135,7 +135,7 @@ background-color: #ffffff;
     width: 500px;
 }
 #right-col{
-
+    border:2px solid black ;
     height: 568px;
     flex: 1;
 padding:20px 0px 0px 260px;
