@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    background-color: white;
+}
+#container
+{
+height: 692px;
+background-color: rgb(255, 255, 255);
+padding: 0px 120px;
+}
+#box1{
+    background-color: gray;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    padding: 0px 40px;
+}
+#box1 h1{
+    font-size: 50px;
+    font-weight: 500;
+}
+#box1 input{
+    color: gray;
+    border: 2px solid black;
+    height: 25px;
+    width: 760px;
+}
+#box1 button{
+    background-color: aqua;
+    box-shadow: 3px 3px black;
+    height: 25px;
+    width: 70px;
+    color: white;
+}
+#box2{
+    height: 592px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+#left-col{
+margin-top: 20px;
+flex: 2;
+height: 588px;
+}
+#lefttopbox1{
+    border:2px solid black ;
+    height: 200px;
+    padding: 60px 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+}
+#insideleftbox{
+
+    height: 300px;
+    width: 150px;
+    margin-right: 50px;
+    padding-left: 20px;
+}
+#insideleftbox h1{
+    font-size: 40px;
+}
+#insideleftbox span{
+    color: gray;
+    padding-left: 20px;
+}
+#insideleftbox p{
+    padding-top: 20px;
+    margin-bottom: 25px;
+}
+#insideleftbox button{
+    height: 34px;
+    width: 100px;
+    background-color:#ffd966 ;
+    box-shadow: 3px 3px black;
+}
+#insideleftbox2{
+    height: 80px;
+    width: 500px;
+    margin-bottom: 80px;
+    font-size:20px ;
+}
+#insideleftbox2 a{
+    color:#1c619d ;
+}
+#leftbottombox2{
+    border:2px solid black ;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+#insidebottombox{
+background-color: #ffffff;
+    height: 240px;
+    width: 150px;
+    margin-right: 50px;
+
+}
+#insidebottombox h1{
+    font-size: 40px;
+}
+#insidebottombox span{
+    color: gray;
+    padding-left: 20px;
+}
+#insideleftbox p{
+    padding-top: 20px;
+}
+#insidebottombox button{
+    height: 34px;
+    width: 100px;
+    background-color:#ffd966 ;
+    box-shadow: 3px 3px black;
+    margin-top: 30px;
+}
+#insideleftbottombox2{
+    height: 80px;
+    width: 500px;
+    margin-bottom: 80px;
+    font-size:20px ;
+}
+#insideleftbottombox2 a{
+    color:#1c619d ;
+}
+#insideleftbottombox2{
+
+    height: 80px;
+    width: 500px;
+}
+#right-col{
+
+    height: 568px;
+    flex: 1;
+padding:20px 0px 0px 260px;
+}
+#onlybox{
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    padding-left: 20px;
+}
+#onlybox p{
+    font-size: 30px;
+}
+#onlybox button{
+    background-color:#93c47d ;
+    height: 30px;
+width: 200px;
+margin-left: 15px;
+margin-top: 24px;
+box-shadow: 3px 3px black;
+}
