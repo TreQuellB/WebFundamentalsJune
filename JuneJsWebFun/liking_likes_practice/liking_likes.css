@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+#mainbox{
+border: 2px solid black;
+height: 120px;
+margin: 0 auto;
+width: 400px;
+margin-top: 40px;
+padding-left: 20px;
+padding-right: 20px;
+}
+#boxtop{
+    height: 40px;
+    padding-top: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#boxtop h3 {font-size: 24px;
+    
+}
+#boxtop button {
+    background:#ffd966 ;
+    height: 30px;
+    width: 60px;
+    box-shadow: 3px 3px black;
+    
+}
+#firstbutton button {
+background-color: white;
+    height: 30px;
+    width: 80px;
+border: none;
+box-shadow: none;
+}
